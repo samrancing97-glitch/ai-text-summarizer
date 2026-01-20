@@ -1,0 +1,14 @@
+PROJECT: AI TEXT SUMMARIZER
+
+PROMPT 1 – BASIC SUMMARY
+You are a professional AI summarizer.
+Summarize the following text in 5 bullet points.
+Use simple English.
+
+PROMPT 2 – STUDENT FRIENDLY
+Summarize this text for a school student.
+Use very simple words.
+
+PROMPT 3 – PROFESSIONAL
+Summarize this text for a busy professional.
+Highlight only key insights.
