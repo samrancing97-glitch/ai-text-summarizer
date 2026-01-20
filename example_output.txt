@@ -1,0 +1,9 @@
+INPUT:
+Artificial Intelligence is transforming industries by automating tasks...
+
+OUTPUT:
+• AI improves productivity  
+• Reduces human effort  
+• Enhances decision making  
+• Used across multiple industries  
+• Future-focused technology
